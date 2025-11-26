@@ -1,0 +1,16 @@
+{
+  "name": "William O'Meara CV",
+  "short_name": "William CV",
+  "description": "Professional CV showcasing software experience",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#333333",
+  "icons": [
+    {
+      "src": "/images/avatar.jpg",
+      "sizes": "400x400",
+      "type": "image/jpeg"
+    }
+  ]
+}
