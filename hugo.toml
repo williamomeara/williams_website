@@ -1,0 +1,47 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = "William O'Meara CV"
+theme = "hugo-coder"
+
+[params]
+  author = "William O'Meara"
+  info = "Senior Software Engineer"
+  description = "Professional CV showcasing software experience"
+  keywords = "CV, resume, professional, experience"
+  avatarURL = "/images/avatar.jpg"
+  since = 2020
+
+[[menu.main]]
+  name = "Home"
+  weight = 1
+  url = "/"
+
+[[menu.main]]
+  name = "About"
+  weight = 2
+  url = "about/"
+
+[[menu.main]]
+  name = "Experience"
+  weight = 3
+  url = "experience/"
+
+[[menu.main]]
+  name = "Education"
+  weight = 4
+  url = "education/"
+
+[[menu.main]]
+  name = "Projects"
+  weight = 5
+  url = "projects/"
+
+[[menu.main]]
+  name = "Skills"
+  weight = 6
+  url = "skills/"
+
+[[menu.main]]
+  name = "Certifications"
+  weight = 7
+  url = "certifications/"
