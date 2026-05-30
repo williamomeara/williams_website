@@ -6,6 +6,28 @@ title = 'Experience'
 
 # Professional Experience
 
+## AI Engineer
+**Zinkworks** (contracting for Virgin Media O2 / VMO2)  
+*Athlone, Ireland · February 2026 - Present*
+
+Building production AI agents for a major telecommunications client, working with Google's Agent Development Kit (ADK) and Gemini, with cloud infrastructure provisioned as code.
+
+### Key Focus:
+- Design and build LLM-powered agents using Google's Agent Development Kit (ADK) and Gemini models.
+- Provision and manage Google Cloud infrastructure as code with Terraform.
+- Integrate agents into existing enterprise systems and workflows for a large telecoms operator (VMO2).
+
+## Founder & Software Engineer
+**Cú Chulainn Tech Ltd**  
+*Ireland · 2026 - Present*
+
+Founded an Irish software studio shipping SaaS products and custom apps for ambitious teams. Designed, built, and shipped a portfolio of products spanning AI/developer tooling, full-stack web platforms, and mobile apps — taking each from concept through architecture, implementation, deployment, and (where live) real users.
+
+### Highlights:
+- Shipped live products including **Éist** (Flutter audiobook app, 2,000+ downloads), **Every Company Ever**, and **TenderMatch**.
+- Published open-source developer tooling (MCP servers, CLIs) for AI-assisted development workflows.
+- Owned the full stack end to end: backend (Python/FastAPI, Django, Node), frontend (Next.js/React, Flutter), data (PostgreSQL, pgvector, vector/graph search), and deployment (Vercel, Cloud Run, Fly.io, Hetzner, GCP).
+
 ## Volunteer English Teacher
 **New Hope of Children Association School, Cambodia**  
 *August 2024 - November 2024*

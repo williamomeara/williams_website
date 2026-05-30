@@ -1,5 +1,5 @@
 +++
-date = '2025-11-26T17:34:00Z'
+date = '2026-05-30T12:00:00Z'
 draft = false
 title = 'Skills'
 +++
@@ -9,52 +9,65 @@ title = 'Skills'
 ## Programming Languages
 - **Python** (Strong)
 - **Golang** (Strong)
+- **TypeScript / JavaScript** (Strong)
+- **Dart** (Strong)
 - **Java** (Good)
+- **Kotlin** (Good)
+- **Swift** (Moderate)
 - **C/C++** (Moderate)
-- **Ruby** (Moderate)
-- **JavaScript** (Moderate)
+- **SQL** (Good)
+
+## AI & Machine Learning
+- **Google Agent Development Kit (ADK)** (Strong)
+- **Gemini / Vertex AI** (Strong)
+- **Claude / Anthropic API** (Strong)
+- **Model Context Protocol (MCP)** (Strong)
+- **LLM application development** (Strong)
+- **RAG & vector search** (Good)
+- **Embeddings & semantic search** (Good)
+- **OpenAI API** (Good)
+- **Machine Learning** (Good)
 
 ## Frameworks & Libraries
-- **Django** (Strong)
+- **Django / Django REST Framework** (Strong)
+- **FastAPI** (Strong)
+- **Flutter** (Strong)
+- **Next.js / React** (Good)
+- **Astro** (Good)
 - **Vue.js** (Good)
-- **React** (Moderate)
 - **Spring Boot** (Moderate)
+- **Riverpod** (Good)
 
 ## Cloud & Infrastructure
 - **Kubernetes** (Strong)
 - **Helm** (Strong)
 - **Docker** (Strong)
+- **Terraform** (Good)
+- **Google Cloud (GCP / Cloud Run)** (Good)
 - **AWS** (Good)
-- **GCP** (Moderate)
+- **Vercel / Fly.io / Hetzner** (Good)
 
 ## Databases
+- **PostgreSQL** (Strong)
 - **MongoDB** (Strong)
-- **PostgreSQL** (Good)
-- **Redis** (Moderate)
+- **pgvector** (Good)
+- **Redis** (Good)
+- **SQLite / DuckDB** (Good)
+- **FalkorDB / graph databases** (Moderate)
 
 ## Technologies & Tools
-- **Machine Learning** (Good)
-- **DevOps** (Good)
+- **Supabase** (Good)
+- **Kafka** (Good)
+- **gRPC / Protobuf** (Good)
+- **DevOps & CI/CD** (Good)
+- **Jenkins / GitHub Actions** (Good)
+- **Playwright** (Good)
 - **Linux** (Good)
-- **Git** (Good)
-- **Jenkins** (Moderate)
-- **GitHub Actions** (Moderate)
-- **Elasticsearch/Kibana/Logstash** (Moderate)
-- **Prometheus/Grafana** (Moderate)
-- **Terraform** (Moderate)
-- **Groovy/Spock** (Moderate)
-- **TDD** (Moderate)
-- **Agile/Scrum** (Good)
-
-## Courses Completed
-- Advanced Python
-- Beyond Advanced Python
-- Kubernetes and Helm for Java Developers
-- Deploying and Managing Microservices
-- Spring Boot Development
-- Deploying Charts with Helmfile
-- AWS Certified Cloud Practitioner (in progress)
-- Google Cloud Professional Cloud Architect (planned)
+- **Git** (Strong)
+- **Prometheus / Grafana** (Moderate)
+- **Elasticsearch / Kibana / Logstash** (Moderate)
+- **TDD** (Good)
+- **Agile / Scrum** (Good)
 
 ## Languages
 - **English** (Native)

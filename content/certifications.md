@@ -1,22 +1,25 @@
 +++
-date = '2025-11-26T17:35:00Z'
+date = '2026-05-30T12:00:00Z'
 draft = false
 title = 'Certifications'
 +++
 
-# Certifications
+# Certifications & Training
 
 ## In Progress
-- **AWS Certified Cloud Practitioner** - Expected completion: Q1 2026
-- **Certified Kubernetes Administrator (CKA)** - Studying
+- **AWS Certified Cloud Practitioner** — studying
+- **Certified Kubernetes Administrator (CKA)** — studying
 
 ## Planned
-- **Google Cloud Professional Cloud Architect**
+- **Google Cloud Professional Cloud Architect** — relevant to my current GCP, ADK, and Terraform work
 - **Docker Certified Associate**
 
-## Completed Courses (Equivalent to Certifications)
-- **Kubernetes and Helm for Java Developers** - Udemy
-- **Advanced Python Programming** - Coursera
-- **DevOps with Docker** - Online Course
+## Courses Completed
+- Advanced Python Programming
+- Beyond Advanced Python
+- Kubernetes and Helm for Java Developers
+- Deploying and Managing Microservices
+- Spring Boot Development
+- Deploying Charts with Helmfile
 
-These certifications and courses demonstrate my commitment to staying current with industry standards and best practices in cloud computing, containerization, and DevOps.
+These courses and the certifications I'm working toward reflect my commitment to staying current with cloud computing, containerisation, DevOps, and AI engineering.
